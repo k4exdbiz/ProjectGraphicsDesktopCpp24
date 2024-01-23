@@ -1,9 +1,0 @@
-﻿  main.cpp
-C:\Users\PC\source\repos\ProjectGraphicsDesktopCpp\ProjectGraphicsDesktopCpp\Logger.h(18,3): warning C4091: 'static ': ignored on left of 'Logger::LogLevel' when no variable is declared
-C:\Users\PC\source\repos\ProjectGraphicsDesktopCpp\ProjectGraphicsDesktopCpp\Mesh.h(77,44): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
-C:\Users\PC\source\repos\ProjectGraphicsDesktopCpp\ProjectGraphicsDesktopCpp\Phobos.h(35,7): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\PC\source\repos\ProjectGraphicsDesktopCpp\ProjectGraphicsDesktopCpp\Phobos.h(36,7): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\PC\source\repos\ProjectGraphicsDesktopCpp\ProjectGraphicsDesktopCpp\Phobos.h(37,7): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\PC\source\repos\ProjectGraphicsDesktopCpp\ProjectGraphicsDesktopCpp\Phobos.h(144,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\PC\source\repos\ProjectGraphicsDesktopCpp\ProjectGraphicsDesktopCpp\Phobos.h(144,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-  ProjectGraphicsDesktopCpp.vcxproj -> C:\Users\PC\source\repos\ProjectGraphicsDesktopCpp\x64\Debug\ProjectGraphicsDesktopCpp.exe
